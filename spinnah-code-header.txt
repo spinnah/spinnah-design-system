@@ -1,0 +1,16 @@
+//  =====================================
+//  <FileName>.swift (File Version <X>)
+//  <Project/App> (App Version <Y>)
+//
+//  Created by Shast LeLow on <MM/DD/YY>
+//  Updated for <Jira Key + short reason>
+//
+//  Purpose:
+//  <1-2 lines describing what this file is for>
+//
+//  Sections:
+//  // MARK: - Models
+//  // MARK: - Services
+//  // MARK: - Views
+//  // MARK: - Helpers
+//  =====================================

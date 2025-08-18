@@ -1,0 +1,24 @@
+# Build and Derived Data
+DerivedData/
+build/
+*.xcuserstate
+
+# Xcode
+*.xcworkspace/
+*.xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.xcuserdatad
+
+# SwiftPM and CocoaPods (in case added later)
+.build/
+Packages/
+.swiftpm/
+Pods/
+Podfile.lock
+
+# Misc
+.DS_Store
+*.swp
+.idea/
