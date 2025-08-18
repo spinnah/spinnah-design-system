@@ -14,17 +14,29 @@
 		601AC0D02E53CCC400CC3949 /* Exceptions for "SpinnahDesignSystem" folder in "SpinnahDesignSystem" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Sources/Colors.swift,
+				Sources/Tokens/Colors.swift,
+				Sources/Tokens/Gradients.swift,
 			);
 			target = 6035DBB22E53C48F0094E9F4 /* SpinnahDesignSystem */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		60771C892E53D33400A0B290 /* Exceptions for "SpinnahDesignSystem" folder in "Copy Bundle Resources" phase from "SpinnahDesignSystem" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 6035DBB12E53C48F0094E9F4 /* Resources */;
+			membershipExceptions = (
+				Sources/Tokens/Gradients.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		6035DBB52E53C48F0094E9F4 /* SpinnahDesignSystem */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				601AC0D02E53CCC400CC3949 /* Exceptions for "SpinnahDesignSystem" folder in "SpinnahDesignSystem" target */,
+				60771C892E53D33400A0B290 /* Exceptions for "SpinnahDesignSystem" folder in "Copy Bundle Resources" phase from "SpinnahDesignSystem" target */,
 			);
 			path = SpinnahDesignSystem;
 			sourceTree = "<group>";
