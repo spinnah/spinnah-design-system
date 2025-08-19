@@ -33,21 +33,23 @@ The **SpinnahDesignSystem** is a shared SwiftUI-based design system used across 
 
 Below is a list of available named colors from `Colors.xcassets`:
 
-| Color Name                | Example                  |
-|--------------------------|--------------------------|
-| `SpinnahPrimary`         | <span style="color:#4A90E2;">SpinnahPrimary</span> |
-| `SpinnahSecondary`       | <span style="color:#50E3C2;">SpinnahSecondary</span> |
-| `SpinnahAccent`          | <span style="color:#FFC107;">SpinnahAccent</span> |
-| `SpinnahBackground`      | <span style="color:#FFFFFF;">SpinnahBackground</span> |
-| `SpinnahBackgroundSecondary` | <span style="color:#F5F5F5;">SpinnahBackgroundSecondary</span> |
-| `SpinnahTextPrimary`     | <span style="color:#212121;">SpinnahTextPrimary</span> |
-| `SpinnahTextSecondary`   | <span style="color:#757575;">SpinnahTextSecondary</span> |
-| `SpinnahError`           | <span style="color:#D32F2F;">SpinnahError</span> |
-| `SpinnahWarning`         | <span style="color:#FFA000;">SpinnahWarning</span> |
-| `SpinnahSuccess`         | <span style="color:#388E3C;">SpinnahSuccess</span> |
-| `SpinnahInfo`            | <span style="color:#0288D1;">SpinnahInfo</span> |
-| `SpinnahLink`            | <span style="color:#1976D2;">SpinnahLink</span> |
-| `SpinnahOverlay`         | <span style="color:#000000;">SpinnahOverlay</span> |
+| Color Name                | Swatch |
+|--------------------------|--------|
+| `SpinnahPrimary`         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahPrimary.png) |
+| `SpinnahSecondary`       | ![SpinnahSecondary](READMEAssets/swatches/SpinnahSecondary.png) |
+| `SpinnahAccent`          | ![SpinnahAccent](READMEAssets/swatches/SpinnahAccent.png) |
+| `SpinnahBackground`      | ![SpinnahBackground](READMEAssets/swatches/SpinnahBackground.png) |
+| `SpinnahBackgroundSecondary` | ![SpinnahBackgroundSecondary](READMEAssets/swatches/SpinnahBackgroundSecondary.png) |
+| `SpinnahTextPrimary`     | ![SpinnahTextPrimary](READMEAssets/swatches/SpinnahTextPrimary.png) |
+| `SpinnahTextSecondary`   | ![SpinnahTextSecondary](READMEAssets/swatches/SpinnahTextSecondary.png) |
+| `SpinnahTextDisabled`    | ![SpinnahTextDisabled](READMEAssets/swatches/SpinnahTextDisabled.png) |
+| `SpinnahTextPlaceholder` | ![SpinnahTextPlaceholder](READMEAssets/swatches/SpinnahTextPlaceholder.png) |
+| `SpinnahError`           | ![SpinnahError](READMEAssets/swatches/SpinnahError.png) |
+| `SpinnahWarning`         | ![SpinnahWarning](READMEAssets/swatches/SpinnahWarning.png) |
+| `SpinnahSuccess`         | ![SpinnahSuccess](READMEAssets/swatches/SpinnahSuccess.png) |
+| `SpinnahInfo`            | ![SpinnahInfo](READMEAssets/swatches/SpinnahInfo.png) |
+| `SpinnahLink`            | ![SpinnahLink](READMEAssets/swatches/SpinnahLink.png) |
+| `SpinnahOverlay`         | ![SpinnahOverlay](READMEAssets/swatches/SpinnahOverlay.png) |
 
 _Note: These color values are approximations based on current theme previews._
 
