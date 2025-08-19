@@ -59,11 +59,11 @@ _Note: These color values are approximations based on current theme previews._
 
 The following named gradients are provided by `SpinnahGradients`:
 
-| Gradient Name       | From → To                  |
-|---------------------|----------------------------|
-| `primaryGradient`   | SpinnahGradientStart → SpinnahGradientEnd |
-| `cardBackground`    | SpinnahBackground → SpinnahBackgroundSecondary |
-| `toolbarFade`       | SpinnahOverlay → transparent |
+| Gradient Name       | From → To                                      | Swatch |
+|---------------------|------------------------------------------------|--------|
+| `primaryGradient`   | SpinnahGradientStart → SpinnahGradientEnd      | ![primaryGradient](READMEAssets/swatches/primaryGradient.png) |
+| `cardBackground`    | SpinnahBackground → SpinnahBackgroundSecondary | ![cardBackground](READMEAssets/swatches/cardBackground.png) |
+| `toolbarFade`       | SpinnahOverlay → transparent                   | ![toolbarFade](READMEAssets/swatches/toolbarFade.png) |
 
 ---
 
