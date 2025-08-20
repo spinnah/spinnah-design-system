@@ -60,12 +60,10 @@ _Note: These color values are approximations based on current theme previews._
 
 The following named gradients are provided by `SpinnahGradients`:
 
-| Gradient Name       | From → To                                      | Swatch |
+| Gradient Name       | From → To                                      | Default Swatch | Dark Swatch |
 |---------------------|------------------------------------------------|--------|
-| `primaryGradient`   | SpinnahGradientStart → SpinnahGradientEnd      | ![primaryGradient](READMEAssets/swatches/primaryGradient-Default.png) |
-| `primaryGradient-Dark`   |       | ![primaryGradient](READMEAssets/swatches/primaryGradient-Dark.png) |
-| `cardBackground`    | SpinnahBackground → SpinnahBackgroundSecondary | ![cardBackground](READMEAssets/swatches/cardBackground.png) |
-| `toolbarFade`       | SpinnahOverlay → transparent                   | ![toolbarFade](READMEAssets/swatches/toolbarFade.png) |
+| `primaryGradient`   | SpinnahGradientStart → SpinnahGradientEnd      | ![primaryGradient](READMEAssets/swatches/primaryGradient-Default.png) | ![primaryGradient](READMEAssets/swatches/primaryGradient-Dark.png) |
+| `cardBackground`    | SpinnahBackground → SpinnahBackgroundSecondary | ![cardBackground](READMEAssets/swatches/cardBackground-Default.png) | ![cardBackground](READMEAssets/swatches/cardBackground-Dark.png) |
 
 ---
 
