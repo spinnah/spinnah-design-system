@@ -63,7 +63,7 @@ The following named gradients are provided by `SpinnahGradients`:
 | Gradient Name       | From → To                                      | Swatch |
 |---------------------|------------------------------------------------|--------|
 | `primaryGradient`   | SpinnahGradientStart → SpinnahGradientEnd      | ![primaryGradient](READMEAssets/swatches/primaryGradient-Default.png) |
-|    |       | ![primaryGradient](READMEAssets/swatches/primaryGradient-Dark.png) |
+| `primaryGradient-Dark`   |       | ![primaryGradient](READMEAssets/swatches/primaryGradient-Dark.png) |
 | `cardBackground`    | SpinnahBackground → SpinnahBackgroundSecondary | ![cardBackground](READMEAssets/swatches/cardBackground.png) |
 | `toolbarFade`       | SpinnahOverlay → transparent                   | ![toolbarFade](READMEAssets/swatches/toolbarFade.png) |
 
