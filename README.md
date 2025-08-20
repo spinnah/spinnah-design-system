@@ -33,23 +33,26 @@ The **SpinnahDesignSystem** is a shared SwiftUI-based design system used across 
 
 Below is a list of available named colors from `Colors.xcassets`:
 
-| Color Name                | Swatch |
-|--------------------------|--------|
-| `SpinnahPrimary`         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahPrimary.png) |
-| `SpinnahSecondary`       | ![SpinnahSecondary](READMEAssets/swatches/SpinnahSecondary.png) |
-| `SpinnahAccent`          | ![SpinnahAccent](READMEAssets/swatches/SpinnahAccent.png) |
-| `SpinnahBackground`      | ![SpinnahBackground](READMEAssets/swatches/SpinnahBackground.png) |
-| `SpinnahBackgroundSecondary` | ![SpinnahBackgroundSecondary](READMEAssets/swatches/SpinnahBackgroundSecondary.png) |
-| `SpinnahTextPrimary`     | ![SpinnahTextPrimary](READMEAssets/swatches/SpinnahTextPrimary.png) |
-| `SpinnahTextSecondary`   | ![SpinnahTextSecondary](READMEAssets/swatches/SpinnahTextSecondary.png) |
-| `SpinnahTextDisabled`    | ![SpinnahTextDisabled](READMEAssets/swatches/SpinnahTextDisabled.png) |
-| `SpinnahTextPlaceholder` | ![SpinnahTextPlaceholder](READMEAssets/swatches/SpinnahTextPlaceholder.png) |
-| `SpinnahError`           | ![SpinnahError](READMEAssets/swatches/SpinnahError.png) |
-| `SpinnahWarning`         | ![SpinnahWarning](READMEAssets/swatches/SpinnahWarning.png) |
-| `SpinnahSuccess`         | ![SpinnahSuccess](READMEAssets/swatches/SpinnahSuccess.png) |
-| `SpinnahInfo`            | ![SpinnahInfo](READMEAssets/swatches/SpinnahInfo.png) |
-| `SpinnahLink`            | ![SpinnahLink](READMEAssets/swatches/SpinnahLink.png) |
-| `SpinnahOverlay`         | ![SpinnahOverlay](READMEAssets/swatches/SpinnahOverlay.png) |
+| Color Name                   | Default Swatch                                                              | Dark Swatch                                                             |
+|-----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 'SpinnahAccent'             | ![SpinnahPrimary](READMEAssets/swatches/SpinnahAccent-Default.png)          | ![SpinnahPrimary](READMEAssets/swatches/SpinnahAccent-Dark.png)        |
+| 'SpinnahBackground'         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahBackground-Default.png)      | ![SpinnahPrimary](READMEAssets/swatches/SpinnahBackground-Dark.png)    |
+| 'SpinnahBackgroundSecondary'| ![SpinnahPrimary](READMEAssets/swatches/SpinnahBackgroundSecondary-Default.png) | ![SpinnahPrimary](READMEAssets/swatches/SpinnahBackgroundSecondary-Dark.png) |
+| 'SpinnahBorder'             | ![SpinnahPrimary](READMEAssets/swatches/SpinnahBorder-Default.png)          | ![SpinnahPrimary](READMEAssets/swatches/SpinnahBorder-Dark.png)        |
+| 'SpinnahCardElevated'       | ![SpinnahPrimary](READMEAssets/swatches/SpinnahCardElevated-Default.png)    | ![SpinnahPrimary](READMEAssets/swatches/SpinnahCardElevated-Dark.png)  |
+| 'SpinnahError'              | ![SpinnahPrimary](READMEAssets/swatches/SpinnahError-Default.png)           | ![SpinnahPrimary](READMEAssets/swatches/SpinnahError-Dark.png)         |
+| 'SpinnahGradient'           | ![SpinnahPrimary](READMEAssets/swatches/SpinnahGradient-Default.png)        | ![SpinnahPrimary](READMEAssets/swatches/SpinnahGradient-Dark.png)      |
+| 'SpinnahInfo'               | ![SpinnahPrimary](READMEAssets/swatches/SpinnahInfo-Default.png)            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahInfo-Dark.png)          |
+| 'SpinnahLink'               | ![SpinnahPrimary](READMEAssets/swatches/SpinnahLink-Default.png)            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahLink-Dark.png)          |
+| 'SpinnahOverlay'            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahOverlay-Default.png)         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahOverlay-Dark.png)       |
+| 'SpinnahPrimary'            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahPrimary-Default.png)         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahPrimary-Dark.png)       |
+| 'SpinnahSecondary'          | ![SpinnahPrimary](READMEAssets/swatches/SpinnahSecondary-Default.png)       | ![SpinnahPrimary](READMEAssets/swatches/SpinnahSecondary-Dark.png)     |
+| 'SpinnahSuccess'            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahSuccess-Default.png)         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahSuccess-Dark.png)       |
+| 'SpinnahTextDisabled'       | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextDisabled-Default.png)    | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextDisabled-Dark.png)  |
+| 'SpinnahTextPlaceholder'    | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextPlaceholder-Default.png) | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextPlaceholder-Dark.png) |
+| 'SpinnahTextPrimary'        | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextPrimary-Default.png)     | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextPrimary-Dark.png)   |
+| 'SpinnahTextSecondary'      | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextSecondary-Default.png)   | ![SpinnahPrimary](READMEAssets/swatches/SpinnahTextSecondary-Dark.png) |
+| 'SpinnahWarning'            | ![SpinnahPrimary](READMEAssets/swatches/SpinnahWarning-Default.png)         | ![SpinnahPrimary](READMEAssets/swatches/SpinnahWarning-Dark.png)       |
 
 _Note: These color values are approximations based on current theme previews._
 
