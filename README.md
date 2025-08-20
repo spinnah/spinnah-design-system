@@ -1,7 +1,3 @@
-# Spinnah-Design-System
-
-Shared design system with components, colors, and UI patterns for all Spinnah apps. 
-
 # SpinnahDesignSystem
 
 The **SpinnahDesignSystem** is a shared SwiftUI-based design system used across all Spinnah apps. It provides consistent visual language, modular components, and UI tokens for building beautiful and cohesive user interfaces across macOS, iOS, and visionOS platforms.
